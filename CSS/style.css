@@ -1,0 +1,14 @@
+.navbar2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-brand {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-purple {
+  color: purple;
+}
